@@ -1,0 +1,32 @@
+[
+  {
+    "remote": "cm",
+    "repository": "android_device_motorola_msm8960_jbbl-common",
+    "target_path": "device/motorola/msm8960-common",
+    "revision": "cm-12.0"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "cm-12.0"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_device_motorola_qcom-common",
+    "target_path": "device/motorola/qcom-common",
+    "revision": "cm-12.0"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_kernel_motorola_msm8960-common",
+    "target_path": "kernel/motorola/msm8960dt-common",
+    "revision": "cm-12.0"
+  },
+  {
+    "remote": "tm",
+    "repository": "proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
+    "revision": "cm-12.0"
+  }
+]
