@@ -30,7 +30,7 @@ $(call inherit-product, device/motorola/mb886/device.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := mb886
-PRODUCT_NAME := omni_mb886
+PRODUCT_NAME := full_mb886
 PRODUCT_BRAND := motorola
 PRODUCT_MODEL := ATRIX HD
 PRODUCT_MANUFACTURER := motorola
